@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "youtube-creator-categorizer",
+    "slug": "snack-46c376d7-c3dd-4f01-a4ee-709978d4ca4e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Categorizes youtube creators based on the Video titles and descriptions."
+  }
+}
